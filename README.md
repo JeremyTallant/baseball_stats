@@ -19,7 +19,7 @@ If you don't have a Jupyter environment set up, you can install Jupyter Notebook
 1. **The Statcast revolution:** Load the CSV files, which hold the Statcast data for each player, into pandas DataFrames.
 2. **What can Statcast measure?:** Display the last five rows of the judge DataFrame.
 3. **Aaron Judge and Giancarlo Stanton, prolific sluggers:** Isolate each player's batted ball events for the 2017 season.
-4. **Analyzing home runs with Statcast data:**
+4. **Analyzing home runs with Statcast data:** Isolate each player's home runs then plot exit velocity vs. launch angle.
 5. **Home runs by pitch velocity:**
 6. **Home runs by pitch location (I):**
 7. **Home runs by pitch location (II):**
