@@ -16,13 +16,13 @@ If you don't have a Jupyter environment set up, you can install Jupyter Notebook
 
 2. Ensure you have Python installed. If not, you can download and install Python from the [official Python website](https://www.python.org/downloads/).
 ## Contents
-1. The Statcast revolution
-2. What can Statcast measure?
-3. Aaron Judge and Giancarlo Stanton, prolific sluggers
-4. Analyzing home runs with Statcast data
-5. Home runs by pitch velocity
-6. Home runs by pitch location (I)
-7. Home runs by pitch location (II)
-8. Aaron Judge's home run zone
-9. Giancarlo Stanton's home run zone
-10. Should opposing pitchers be scared?
+1. **The Statcast revolution:**
+2. **What can Statcast measure?:**
+3. **Aaron Judge and Giancarlo Stanton, prolific sluggers:**
+4. **Analyzing home runs with Statcast data:**
+5. **Home runs by pitch velocity:**
+6. **Home runs by pitch location (I):**
+7. **Home runs by pitch location (II):**
+8. **Aaron Judge's home run zone:**
+9. **Giancarlo Stanton's home run zone:**
+10. **Should opposing pitchers be scared?:**
