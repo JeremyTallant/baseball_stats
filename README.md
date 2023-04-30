@@ -25,4 +25,4 @@ If you don't have a Jupyter environment set up, you can install Jupyter Notebook
 7. **Home runs by pitch location (II):** Create a function that returns the y-coordinate of a pitch zone.
 8. **Aaron Judge's home run zone:** Assign Cartesian coordinates to the strike zone and plot pitches that resulted in Judge home runs as a 2D histogram.
 9. **Giancarlo Stanton's home run zone:** Assign Cartesian coordinates to the strike zone and plot pitches that resulted in Stanton home runs as a 2D histogram.
-10. **Should opposing pitchers be scared?:**
+10. **Should opposing pitchers be scared?:** Answer the following question: "Should opposing pitchers be wary of Aaron Judge and Giancarlo Stanton?"
