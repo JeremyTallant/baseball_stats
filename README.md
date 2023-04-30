@@ -4,9 +4,9 @@ There's a new era of data analysis in baseball. Using a new technology called St
 
 The dataset used in this project is from [Baseball Savant.](https://baseballsavant.mlb.com/about)
 ## Usage
-Clone this repository and open the Jupyter notebook file (`*.ipynb`) in a Jupyter environment with Python kernel support. Make sure to install the required packages such as `pandas`, `numpy`, and `matplotlib`. You can do this by running the following commands in a code cell within the notebook:
+Clone this repository and open the Jupyter notebook file (`*.ipynb`) in a Jupyter environment with Python kernel support. Make sure to install the required packages such as `pandas`, `numpy`, `seaboarn`, and `matplotlib`. You can do this by running the following commands in a code cell within the notebook:
 ```python
-!pip install pandas numpy matplotlib
+!pip install pandas numpy matplotlib seaboarn
 ```
 Once the packages are installed, run the code cells in the notebook to generate the plots and analyses.
 
