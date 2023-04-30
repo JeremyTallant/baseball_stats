@@ -23,6 +23,6 @@ If you don't have a Jupyter environment set up, you can install Jupyter Notebook
 5. **Home runs by pitch velocity:** Plot the pitch velocities of each player's home runs on box plots
 6. **Home runs by pitch location (I):** Create a function that returns the x-coordinate of a pitch zone.
 7. **Home runs by pitch location (II):** Create a function that returns the y-coordinate of a pitch zone.
-8. **Aaron Judge's home run zone:**
+8. **Aaron Judge's home run zone:** Assign Cartesian coordinates to the strike zone and plot pitches that resulted in Judge home runs as a 2D histogram.
 9. **Giancarlo Stanton's home run zone:**
 10. **Should opposing pitchers be scared?:**
