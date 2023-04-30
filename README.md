@@ -21,7 +21,7 @@ If you don't have a Jupyter environment set up, you can install Jupyter Notebook
 3. **Aaron Judge and Giancarlo Stanton, prolific sluggers:** Isolate each player's batted ball events for the 2017 season.
 4. **Analyzing home runs with Statcast data:** Isolate each player's home runs then plot exit velocity vs. launch angle.
 5. **Home runs by pitch velocity:** Plot the pitch velocities of each player's home runs on box plots
-6. **Home runs by pitch location (I):**
+6. **Home runs by pitch location (I):** Create a function that returns the x-coordinate of a pitch zone.
 7. **Home runs by pitch location (II):**
 8. **Aaron Judge's home run zone:**
 9. **Giancarlo Stanton's home run zone:**
